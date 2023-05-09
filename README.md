@@ -18,7 +18,7 @@ I recommend reading the **second edition** books in this order:
 * [Objects & Classes](objects-classes/README.md) (draft stable)
 * [Types & Grammar](types-grammar/README.md) (draft in progress)
 * Sync & Async (not yet started)
-* ES.Next & Beyond (not yet started)
+* S.Next & Beyond (not yet started)
 
 If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
